@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E2583F5-8389-4784-998A-F74191AEFB30</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MotionJpegImageView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A32F67F7-D97F-4879-A567-0C9CE80F4843</key>
+		<string>https://github.com/guru78/Motion-JPEG-Image-View-for-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MotionJpegImageView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A32F67F7-D97F-4879-A567-0C9CE80F4843</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/guru78/Motion-JPEG-Image-View-for-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A32F67F7-D97F-4879-A567-0C9CE80F4843</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A32F67F7-D97F-4879-A567-0C9CE80F4843</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Motion-JPEG-Image-View-for-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
